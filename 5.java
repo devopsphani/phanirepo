@@ -1,3 +1,6 @@
 accidentally restore the deleted file
+<<<<<<< HEAD
 merge conflicts
-merge testing scenario
+=======
+>>>>>>> master
+merge test scenario
